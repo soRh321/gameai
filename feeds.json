@@ -1,6 +1,7 @@
 {
   "urls": [
     "https://bbs.ruliweb.com/news/feed",
-    "https://www.reddit.com/r/Games/new/.rss"
+    "https://www.reddit.com/r/Games/new/.rss",
+    "https://www.rockpapershotgun.com/feed/news"
   ]
 }
